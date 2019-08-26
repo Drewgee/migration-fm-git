@@ -1,0 +1,4 @@
+File Forth create
+2nd Line
+Third lone
+Fourth line of the file "File4.txt"
