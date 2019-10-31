@@ -5,6 +5,7 @@ title: 'Task - '
 labels: task, state-open
 assignees: Drewgee
 milestones: BackLog
+projects: BackLog
 
 ---
 
