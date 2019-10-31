@@ -2,7 +2,7 @@
 name: Task
 about: Assign a work order
 title: 'Task - '
-labels: task, state-open
+labels: task, state-open, BackLog
 assignees: Drewgee
 milestones: BackLog
 projects: BackLog
